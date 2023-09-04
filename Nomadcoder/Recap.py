@@ -21,4 +21,4 @@ elif winner == 50:
 else:
   print("Else")
 
-# print("If")가 실행 되는 이유: 첫번째 조건문이 True 일 경우 그 뒤에 조건문은 실행되지 않는다. 
+# print("If")가 실행 되는 이유: 첫번째 조건문이 True 일 경우 그 뒤에 조건문은 실행되지 않는다.
