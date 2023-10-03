@@ -1,3 +1,18 @@
-''' 진짜 이건 나의 의지.
-매일 초록 잔디를 만들거란.... 코딩 공부로 잔디판을 채워야하지만 내가 원치 않게 카페인에 져, 전날 밤을 샌 관계로 내 정신이 아니다.. 내일 꼭 이 주석을 코드로 바꾸리...
-'''
+days_of_week = ["Mon", "Tue", "Wed", "Thur", "Fri"]
+print(days_of_week)
+
+name = "sehee"
+print(name.upper())  # . 은 앞에 있는 것을... , upper()은 소문자를 대문자로 변환
+
+name = "sehee"
+print(name.capitalize())  # capitalize()은 첫문자를 대문자로 변환
+
+name = "sehee"
+print(name.startswith("s"))  # startswith()는 첫문자가 ()안에 문자가 맞는지 확인
+
+name = "sehee"
+print(name.replace("e", "😁"))  # replace("", "")는 앞에 "" 를 뒤에 ""로 변경해줌
+
+name = "sehee"
+print(name.endswith("r"))  # endswith()는 마지막에 끝나는 문자가 ()안에 문자가 맞는지 확인
+# 메소드는 데이터에 결합된 펑션이다.
