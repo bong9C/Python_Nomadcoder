@@ -15,6 +15,7 @@ print(name.replace("e", "😁")) # replace("", "")는 앞에 "" 를 뒤에 ""로
 
 name = "sehee"
 print(name.endswith("r")) # endswith()는 마지막에 끝나는 문자가 ()안에 문자가 맞는지 확인
+
 # 메소드는 데이터에 결합된 펑션이다. 
 
 
