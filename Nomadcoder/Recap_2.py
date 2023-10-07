@@ -1,1 +1,1 @@
-# Method, List, Tuples, Dicts 요
+# Method, List, Tuples, Dicts 요# 메서드, 목록, 튜플, 딕트 s
